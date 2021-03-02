@@ -6,7 +6,7 @@ namespace CodeForce
     {
         static void Main(string[] args)
         {
-
+           
         }
     }
 }
