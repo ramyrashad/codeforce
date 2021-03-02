@@ -1,0 +1,13 @@
+C:\Users\Ramy Rashad\source\repos\CodeForce\CodeForce\bin\Debug\netcoreapp3.1\CodeForce.exe
+C:\Users\Ramy Rashad\source\repos\CodeForce\CodeForce\bin\Debug\netcoreapp3.1\CodeForce.deps.json
+C:\Users\Ramy Rashad\source\repos\CodeForce\CodeForce\bin\Debug\netcoreapp3.1\CodeForce.runtimeconfig.json
+C:\Users\Ramy Rashad\source\repos\CodeForce\CodeForce\bin\Debug\netcoreapp3.1\CodeForce.runtimeconfig.dev.json
+C:\Users\Ramy Rashad\source\repos\CodeForce\CodeForce\bin\Debug\netcoreapp3.1\CodeForce.dll
+C:\Users\Ramy Rashad\source\repos\CodeForce\CodeForce\bin\Debug\netcoreapp3.1\CodeForce.pdb
+C:\Users\Ramy Rashad\source\repos\CodeForce\CodeForce\obj\Debug\netcoreapp3.1\CodeForce.csprojAssemblyReference.cache
+C:\Users\Ramy Rashad\source\repos\CodeForce\CodeForce\obj\Debug\netcoreapp3.1\CodeForce.AssemblyInfoInputs.cache
+C:\Users\Ramy Rashad\source\repos\CodeForce\CodeForce\obj\Debug\netcoreapp3.1\CodeForce.AssemblyInfo.cs
+C:\Users\Ramy Rashad\source\repos\CodeForce\CodeForce\obj\Debug\netcoreapp3.1\CodeForce.csproj.CoreCompileInputs.cache
+C:\Users\Ramy Rashad\source\repos\CodeForce\CodeForce\obj\Debug\netcoreapp3.1\CodeForce.dll
+C:\Users\Ramy Rashad\source\repos\CodeForce\CodeForce\obj\Debug\netcoreapp3.1\CodeForce.pdb
+C:\Users\Ramy Rashad\source\repos\CodeForce\CodeForce\obj\Debug\netcoreapp3.1\CodeForce.genruntimeconfig.cache
